@@ -28,7 +28,7 @@ Entrez un nombre positif (0 pour arrêter) : 543
 543 = 5*10**2 + 4*10**1 + 3*10**0
 La somme des factoriels des chiffres de 543 est : 150
 ```
-*Respectez l'affichage demandé (i.e. l'espace avant et après le ``+``)*
+*Vous devez respectez l'affichage demandé (i.e. l'espace avant et après le ``+``, etc)*
 
 **Explication**
 
