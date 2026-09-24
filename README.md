@@ -4,6 +4,7 @@
 
 ### Instructions
 - Le code doit être contenu dans le ficheir ``decomposition.py``
+- Écrire votre nom. prénom et utilisateur github dans l'espace prévu à cet effet dans le fichier
 - Faire un ``commit and push`` dans Pycharm effectue une remise.
   - Vous pouvez faire plusieurs remises, la dernière version à la date limite de remise sera corrigée.
   - Pour faire un ``commit and push``
@@ -13,7 +14,7 @@
     - cliquer sur ``commit and push``
     - Vous pouvez vérifier dans votre dépôt dur github que le ``push`` a fonctionné
 
-
+![commit and push](commitpush.png)
 
 ### Requis fonctionnels
 Écrire un programme Python qui demande à l'utilisateur de saisir un nombre positif. Le programme doit :
